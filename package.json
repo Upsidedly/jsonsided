@@ -1,0 +1,14 @@
+{
+  "name": "jsonsided",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test yet!\""
+  },
+  "keywords": ["upsided", "json"],
+  "author": "upsided",
+  "license": "GNU General Public License v3",
+  "type": "module",
+  "typings": "src/index.d.ts"
+}
