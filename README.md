@@ -24,6 +24,6 @@ pnpm add jsonsided
 ```ts
 import resolve from 'jsonsided'
 
-const config = resolve('./config.json');
+const config = await resolve('./config.json');
 // -> { hi: 'hello', bye: 'see ya later' }
 ```
